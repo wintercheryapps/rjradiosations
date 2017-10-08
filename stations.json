@@ -1,0 +1,143 @@
+[
+    {
+        "stationName": "Club FM",
+        "stationStreamUrl": "http://19373.live.streamtheworld.com/CLUBFMUAEAAC.aac",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/club_fm.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Flowers FM",
+        "stationStreamUrl": "http://50.7.99.163:16098/stream?type=http&nocache=2",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/flowers_fm.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Mazhavil FM",
+        "stationStreamUrl": "http://mazhavilfm.out.airtime.pro:8000/mazhavilfm_a",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/mazhavil_fm.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Asianet FM",
+        "stationStreamUrl": "http://icast01.bluecast.in:8227/657am",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/asianet_fm.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Hello FM",
+        "stationStreamUrl": "http://132.148.128.197:8000/helloradio.ogg",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/hello_fm.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Malayalee FM",
+        "stationStreamUrl": "https://streaming.radio.co/sd6cafcd5b/listen",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/malayalee_fm.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Radio USA",
+        "stationStreamUrl": "http://167.114.131.90:5412/stream3",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/radio_usa.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Air Manjari FM",
+        "stationStreamUrl": "https://streaming.shoutcast.com/SouthAsiaRadio2",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/air_manjari_fm.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Radio City FM",
+        "stationStreamUrl": "http://prclive1.listenon.in:9908/",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/radio_city_fm.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Radio Asia FM",
+        "stationStreamUrl": "http://50.7.71.27:9699/;stream.mp3",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/radio_asia_fm.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Radio Delhi FM",
+        "stationStreamUrl": "http://hyades.shoutca.st:8667/;stream.mp3",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/radio_delhi.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Radio Malayalam FM",
+        "stationStreamUrl": "http://50.22.212.204:8000/;stream.mp3",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/radio_malayalam.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Gold FM",
+        "stationStreamUrl": "http://19393.live.streamtheworld.com/GOLDFM_SC",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/gold_fm.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Radio Dum Dum",
+        "stationStreamUrl": "http://tune.radiodumdum.com:8000/live",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/radio_dum_dum.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Radio Maharani",
+        "stationStreamUrl": "http://audiocp.globaliway.co.in:7235/start/maharani/;stream.mp3",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/radio_maharani.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Radio Heartbeats",
+        "stationStreamUrl": "http://64.150.176.9:8272/live",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/radio_heart_beats.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "R4Radio",
+        "stationStreamUrl": "http://r4radio.com:8000/live",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/r4radio.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Patturumal Radio",
+        "stationStreamUrl": "http://142.4.217.133:9218/;stream.mp3",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/patturumal_radio.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Ganam Radio",
+        "stationStreamUrl": "http://viadj.viastreaming.net:7104/;",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/ganam_radio.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Ragam Radio",
+        "stationStreamUrl": "http://178.32.107.151:5116/stream",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/ragam_radio.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "LMR Radio",
+        "stationStreamUrl": "http://stream.lmrlive.com:9030/sid1/;stream.mp3",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/lmr_radio.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Malayali Radio",
+        "stationStreamUrl": "http://91.121.164.210:8464/;",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/malyalee_radio.jpg",
+        "isFavourite": false
+    },
+    {
+        "stationName": "Voice of kerala",
+        "stationStreamUrl": "http://vokcast.bluecast.in:8227/vok",
+        "stationImageUrl":"https://itsvssudheesh.github.io/radiostations/vof_radio.jpg",
+        "isFavourite": false
+    }
+
+
+
+]
