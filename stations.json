@@ -1,140 +1,163 @@
 [
    {
-      "stationStreamUrl": "bjsJeI9os5kHI4ML7JtFFL2/0xSOKlFDHYCu9xtsav8cujIbpUPt2+KLyIJhYRowLezS1ppXMLlyU0F9HRVQlw==",
+      "color": "#f8dccb",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZkjshxG58GfMjpksdbGLyrw==",
       "stationName": "3HfUjsFw3CbqrHuV44vETQ==",
-      "isFavourite": false
+      "stationStreamUrl": "bjsJeI9os5kHI4ML7JtFFL2/0xSOKlFDHYCu9xtsav8cujIbpUPt2+KLyIJhYRowLezS1ppXMLlyU0F9HRVQlw=="
    },
    {
-      "stationStreamUrl": "OEpSptJAntk6K0SA2RELj/NEdmMLWhy595W2AQsvdouGozwhAmXXSEWTY+oP1oRbN3V8yB+Hg4SOUKjaud6Y5g==",
+      "color": "#fef090",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZ775KHZxl4o2CFE2Wif/aiA==",
       "stationName": "b4sXK+fTyAYlcNgHvV2Uqg==",
-      "isFavourite": false
+      "stationStreamUrl": "OEpSptJAntk6K0SA2RELj/NEdmMLWhy595W2AQsvdouGozwhAmXXSEWTY+oP1oRbN3V8yB+Hg4SOUKjaud6Y5g=="
    },
    {
-      "stationStreamUrl": "6serJVCxq1elop8WL78/cUOIhwG0gEzSoz661uUFgEM8V+06Un/eIgHJbNx/SyV1aobVz9Aoa5S5MTFYs/dj5g==",
+      "color": "#c4c5bb",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZlaPunvmbBMcGb0YAidX24h7QxWOsqOtLwIKSu9UgB+M=",
       "stationName": "aUsPwA263rne/vGTrcR1rQ==",
-      "isFavourite": false
+      "stationStreamUrl": "6serJVCxq1elop8WL78/cUOIhwG0gEzSoz661uUFgEM8V+06Un/eIgHJbNx/SyV1aobVz9Aoa5S5MTFYs/dj5g=="
    },
    {
-      "stationStreamUrl": "yJDUxBD/wJ92ayJjZ24UxVHjCMucqljU8LeEP1dkxwfKm3HN6EOWE483SE7IYRiL",
+      "color": "#e0e4f7",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZ5h4ckty/J3NzGqKX3IppzA==",
       "stationName": "px92zA4aUU7z6z/HcxPerg==",
-      "isFavourite": false
+      "stationStreamUrl": "yJDUxBD/wJ92ayJjZ24UxVHjCMucqljU8LeEP1dkxwfKm3HN6EOWE483SE7IYRiL"
    },
    {
-      "stationStreamUrl": "l+KXavX1P+KFkNncv7vzbNRgMti6E3ZfFrIgqv5Tjxf0ZvzyQopip56Y2ZceLSUj",
+      "color": "#2d8890",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZ161MLeilhdLdBwMo3I4IhA==",
       "stationName": "rK1KZHKmIN90lycWptTE8w==",
-      "isFavourite": false
+      "stationStreamUrl": "l+KXavX1P+KFkNncv7vzbNRgMti6E3ZfFrIgqv5Tjxf0ZvzyQopip56Y2ZceLSUj"
    },
    {
-      "stationStreamUrl": "4886SJFHWREAZvHdmut1dFit7+kBF7czuwyNdVfQ4fgj5WX9jY/M65A4gR0NUlLe",
+      "color": "#ec0e90",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZwC3NkJGvC+nCBhecFlL7EYxSxoE59oacjNedVNwKFn4=",
       "stationName": "udxsAwi8ghwEJlnGFA7EIg==",
-      "isFavourite": false
+      "stationStreamUrl": "4886SJFHWREAZvHdmut1dFit7+kBF7czuwyNdVfQ4fgj5WX9jY/M65A4gR0NUlLe"
    },
    {
-      "stationStreamUrl": "MtwIK9koJprAPQTXU8H9yap/JZ/2NVJsnQ8nd2ha6JgqnZlUIkimnaPUd3sJkLjt",
+      "color": "#b5c34c",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZCkzBiZkmiX8ZE3sKKxaPvg==",
       "stationName": "s9j3fN07AcVeu9MV51KBhw==",
-      "isFavourite": false
+      "stationStreamUrl": "MtwIK9koJprAPQTXU8H9yap/JZ/2NVJsnQ8nd2ha6JgqnZlUIkimnaPUd3sJkLjt"
    },
    {
-      "stationStreamUrl": "4886SJFHWREAZvHdmut1dLtCpqSf+DHSib2KoHAWu2GAborif2D1PCrVRTwQ4xq4",
+      "color": "#0a09eb",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZLIQZlKmF0n9BXQwV3gooAoXCZ5mhou8VYtOhGSHq2no=",
       "stationName": "lhx0CIUmFy/5WWVArzKRKA==",
-      "isFavourite": false
+      "stationStreamUrl": "4886SJFHWREAZvHdmut1dLtCpqSf+DHSib2KoHAWu2GAborif2D1PCrVRTwQ4xq4"
    },
    {
-      "stationStreamUrl": "kRPmWcrtYXZswzR7j4Sj6/vnVxyM/aTyjNJvgAgBuXtqGoURb8FhVpKwRc53XBr/",
+      "color": "#0e72b8",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZWy1PM2HnGubDMrmyNu3/o+tZ/sfnGRAcvBqX4Syzib8=",
       "stationName": "veLv7nSSipkuwcY2wH7HRw==",
-      "isFavourite": false
+      "stationStreamUrl": "kRPmWcrtYXZswzR7j4Sj6/vnVxyM/aTyjNJvgAgBuXtqGoURb8FhVpKwRc53XBr/"
    },
    {
-      "stationStreamUrl": "0y3cla6G05R+RLNy1XGekP0JbbYMOxlY4U9rBvWDcfwvgrUzVHerYQux7KfdnOAz",
+      "color": "#e12c36",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZLoThuUhnfSkaIeGJRAP/I6jsIEk8xTiYV8VGaonHN0k=",
       "stationName": "DxcOTf543GacOUcUjFj7gA==",
-      "isFavourite": false
+      "stationStreamUrl": "0y3cla6G05R+RLNy1XGekP0JbbYMOxlY4U9rBvWDcfwvgrUzVHerYQux7KfdnOAz"
    },
    {
-      "stationStreamUrl": "IToYJrLiruP2VXtEu5X560D8UOpuDXfIJqLWrYSe9SPRKgjQwM9qCqmvKvnmILzp",
+      "color": "#a10b9c",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZ/TuFXE246AMRpvmx5F88gJ5E9fcg6s/vLQTdLKFbXR8=",
       "stationName": "1LkjOksvrMgPG/brvq1dsw==",
-      "isFavourite": false
+      "stationStreamUrl": "IToYJrLiruP2VXtEu5X560D8UOpuDXfIJqLWrYSe9SPRKgjQwM9qCqmvKvnmILzp"
    },
    {
-      "stationStreamUrl": "iIRwgVKGAtORT98jsSXYnNQ3qava/kPFf5MAtQaY4wnohQfxQWwnSaEJjn1p8qh6",
+      "color": "#f4d80b",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZTPFOig8kNeD9do564ghT8X+4F9imJWN8j0NousEwxc0=",
       "stationName": "RiwFDAHVptExotXL2iyECaw05u0wfDZjgMrJKExb1G4=",
-      "isFavourite": false
+      "stationStreamUrl": "iIRwgVKGAtORT98jsSXYnNQ3qava/kPFf5MAtQaY4wnohQfxQWwnSaEJjn1p8qh6"
    },
    {
-      "stationStreamUrl": "pdnul2i2JyLkKRsPX+O5nypQnV82jNh+pzyXtRfGUapczzvHb750FNCpSDbbgp/g",
+      "color": "#645344",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZ7I6G+8+a0QcjW3eQfuQWSA==",
       "stationName": "HxkBo0pYp8NPQGQ33OkXwQ==",
-      "isFavourite": false
+      "stationStreamUrl": "pdnul2i2JyLkKRsPX+O5nypQnV82jNh+pzyXtRfGUapczzvHb750FNCpSDbbgp/g"
    },
    {
-      "stationStreamUrl": "wGXdD08XUFWRUp5hHZfIzCorrpgMNcC/sAOWqz6tFHPkSuOVlm4HrbQCgump8z2B",
+      "color": "#d95289",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZxmqdQCpMIG0PtC3sM/ZgWD811DCgogTmz4YylQFpqxo=",
       "stationName": "cTamyGN0I9qtyTYEt6xxrA==",
-      "isFavourite": false
+      "stationStreamUrl": "wGXdD08XUFWRUp5hHZfIzCorrpgMNcC/sAOWqz6tFHPkSuOVlm4HrbQCgump8z2B"
    },
    {
-      "stationStreamUrl": "L5luJWHjGdX0nJqh34Em5BBptlj8MDl5tGDBMM/VkHEHfGJyt0N6WJjqX17fIAHiBSs41Ppuxy3hQD61son5yA==",
+      "color": "#77133a",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZqPeynN8UmWy2U/1or/oqNG4zFKjMgw8zMLDwQA6YXj0=",
       "stationName": "66GppUZJ+B6IQp12M8T3sg==",
-      "isFavourite": false
+      "stationStreamUrl": "L5luJWHjGdX0nJqh34Em5BBptlj8MDl5tGDBMM/VkHEHfGJyt0N6WJjqX17fIAHiBSs41Ppuxy3hQD61son5yA=="
    },
    {
-      "stationStreamUrl": "BYJR65JKUdmMwMinK/gCbxywbO7erdf0m/PU0nIL14Q=",
+      "color": "#dac389",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZGVxWRuG2uzjElwYsn0nit+uQdJ5U0UkEj552H3DyxAM=",
       "stationName": "woHqJjnKwUdzf4qk8KCR9zY0ENPMGotkvrydSP3eSCk=",
-      "isFavourite": false
+      "stationStreamUrl": "BYJR65JKUdmMwMinK/gCbxywbO7erdf0m/PU0nIL14Q="
    },
    {
-      "stationStreamUrl": "rH7v7hMK5L/iAf3yxHiBOmqR3pYN97kIOrmKNB3JjPI=",
+      "color": "#223953",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZNvpPpwmkWOBTExpmpHOnBg==",
       "stationName": "o66FkCVX+il3E7auE21HeQ==",
-      "isFavourite": false
+      "stationStreamUrl": "rH7v7hMK5L/iAf3yxHiBOmqR3pYN97kIOrmKNB3JjPI="
    },
    {
-      "stationStreamUrl": "3aqxC7y9yL1lqi9PcM01ydZ95lHsKnxsLdMyyxfaQ0ZLNO1oBGDyJHCg8FS2tkn9",
+      "color": "#372f56",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZxN5zeALRjRosjVJtPEC/rNt8B2y0x0Kl4mE3ZPphMA4=",
       "stationName": "TPZ2gaEhO+A0m5cqOtR81Z3SEFFktoBtCOi4iYXxIMg=",
-      "isFavourite": false
+      "stationStreamUrl": "3aqxC7y9yL1lqi9PcM01ydZ95lHsKnxsLdMyyxfaQ0ZLNO1oBGDyJHCg8FS2tkn9"
    },
    {
-      "stationStreamUrl": "h30gYVXd+RR2m56qnMO84dH3AVCteKJZkwrYc8cBamrh1MVy4JHGjwyUpRGJban8",
+      "color": "#1c1a1b",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZJKKUvyPEHsnpiRq7XO/gPGAYzwlzxcVc7/olMsubMxk=",
       "stationName": "tFk9Snk46OuyJTjMG7rhzQ==",
-      "isFavourite": false
+      "stationStreamUrl": "h30gYVXd+RR2m56qnMO84dH3AVCteKJZkwrYc8cBamrh1MVy4JHGjwyUpRGJban8"
    },
    {
-      "stationStreamUrl": "EidLmVIBt1YeLXOLvnimUgPgu61Pz0aahwj0HZBlbrFkFWPDDMKONjzPZ8fg1hSM",
+      "color": "#d3dcd6",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZR967Q5CYMoXTfIlgVlyYwcSxFUcsrGD4Alc2oa9Fj+g=",
       "stationName": "Hxfm8bMN0UXYJEF7KIeX1g==",
-      "isFavourite": false
+      "stationStreamUrl": "EidLmVIBt1YeLXOLvnimUgPgu61Pz0aahwj0HZBlbrFkFWPDDMKONjzPZ8fg1hSM"
    },
    {
-      "stationStreamUrl": "9c3PK20rS68PfZOKGnyo3M5sXIJcyaS/Z8Mk9tTZ1OKeN6kQd42rBbw/uwzZljvY",
+      "color": "#1e93d1",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZ87vTv+1zXfCplqZTtvFDag==",
       "stationName": "6Vy58ybvPxgYS+OCxpf/7w==",
-      "isFavourite": false
+      "stationStreamUrl": "9c3PK20rS68PfZOKGnyo3M5sXIJcyaS/Z8Mk9tTZ1OKeN6kQd42rBbw/uwzZljvY"
    },
    {
-      "stationStreamUrl": "Obbd0fcCbdwvo+ehBx9QgLlakRgfhqMB7RAApVlfeVY=",
+      "color": "#bd1842",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZ0fKFOACzon4ib/kMdE5bGXUL/bTlG5CbUkyH1FMMAWs=",
       "stationName": "kmwZTRw+ThL8Me0H/rpnOQ==",
-      "isFavourite": false
+      "stationStreamUrl": "Obbd0fcCbdwvo+ehBx9QgLlakRgfhqMB7RAApVlfeVY="
    },
    {
-      "stationStreamUrl": "kTCn4uWotrK0yeoItYS0Yi970p0hhF0DD7DiA9dco9ahG0rBJPukglqFPLJEL3Lc",
+      "color": "#3b7c3f",
+      "isFavourite": false,
       "stationImageUrl": "CC332/vdg2FOz8nqEBfcIszRAnTbr0Q5hgj9RzguASX8whras1Waqeq+P/5/hoYZmOMO6YsuixFV3VcjgP22tA==",
       "stationName": "v1NepA0wpwZeAPNpombc3Q==",
-      "isFavourite": false
+      "stationStreamUrl": "kTCn4uWotrK0yeoItYS0Yi970p0hhF0DD7DiA9dco9ahG0rBJPukglqFPLJEL3Lc"
    }
 ]
