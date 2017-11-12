@@ -1,3 +1,6 @@
 .logo {
   background-image: url('https://wintercheryapps.github.io/rjradiosations/web_hi_res_512.png');
 }
+.progressBar {
+  background-color: rgb(255, 2, 2);
+}
