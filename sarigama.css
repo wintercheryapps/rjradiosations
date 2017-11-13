@@ -1,9 +1,6 @@
 
 .background {
-  background: url('https://wintercheryapps.github.io/rjradiosations/background.png') repeat 5% 5%;
-	position: absolute;
-	top: 0; left: 0; right: 0; bottom: 0;
-	z-index: 100;
+  background: url('https://wintercheryapps.github.io/rjradiosations/backgroun_svg.svg');
 }
 .logo {
   background-image: url('https://wintercheryapps.github.io/rjradiosations/web_hi_res_512.png');
