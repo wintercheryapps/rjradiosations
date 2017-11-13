@@ -1,6 +1,6 @@
 
 .background {
-  background: linear-gradient(-90deg, white , black); 
+  background: center no-repeat url('https://wintercheryapps.github.io/rjradiosations/bg_background.gif'); 
 }
 .logo {
   background-image: url('https://wintercheryapps.github.io/rjradiosations/web_hi_res_512.png');
