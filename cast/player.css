@@ -55,14 +55,21 @@ body {
 }
 
 .player .logo {
-  display: none;
+  position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+    
+  /* display: none;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
-  position: absolute;
+  position: absolute; */
   background-image: url("assets/web_hi_res_512.png");
-  width: 512px;
-  height: 512px;
+  /* width: 512px;
+  height: 512px; */
 }
 
 .player .placeholder-image {
