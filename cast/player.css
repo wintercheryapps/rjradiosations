@@ -55,11 +55,18 @@ body {
 }
 
 .player .logo {
+  display: none;
+  background-size: contain;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: bottom;
   position: absolute;
-  margin:auto;
+  bottom: 50%;
+  left: 50%;
   background-image: url("assets/web_hi_res_512.png");
+  margin-bottom: -96px;
+  margin-left: -96px;
+  width: 192px;
+  height: 192px;
 }
 
 .player .placeholder-image {
