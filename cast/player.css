@@ -40,7 +40,7 @@ body {
 }
 
 .player {
-  background-color: : white;
+  background-image: url("assets/background.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -55,21 +55,18 @@ body {
 }
 
 .player .logo {
-  position:absolute;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
-    margin:auto;
-    background-repeat:no-repeat;
-  /* display: none;
+  display: none;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
-  position: absolute; */
-  background-image: url("assets/web_hi_res_512.png");
-  /* width: 512px;
-  height: 512px; */
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  background-image: url("assets/logo.png");
+  margin-bottom: -96px;
+  margin-left: -96px;
+  width: 192px;
+  height: 192px;
 }
 
 .player .placeholder-image {
@@ -166,10 +163,8 @@ body {
   left: 64px;
   bottom: 64px;
   right: 64px;
-  top: 64px;
   display: none;
   top: auto;
-  background-position: center;
 }
 
 .player .watermark {
