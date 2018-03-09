@@ -61,6 +61,8 @@ body {
   background-position: center;
   position: absolute;
   background-image: url("assets/web_hi_res_512.png");
+  width: 350px;
+  height: 350px;
 }
 
 .player .placeholder-image {
