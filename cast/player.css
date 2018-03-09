@@ -51,9 +51,6 @@ body {
   right: 0;
   top: 0;
   bottom: 0;
-  position:relative;
-    height: 100%;
-    width:100%;
 }
 
 .player .logo {
@@ -64,6 +61,7 @@ body {
     bottom:0;
     margin:auto;
     background-repeat:no-repeat;
+    background-position: center;
   /* display: none;
   background-size: contain;
   background-repeat: no-repeat;
