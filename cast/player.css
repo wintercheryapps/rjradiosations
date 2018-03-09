@@ -60,11 +60,7 @@ body {
   background-repeat: no-repeat;
   background-position: bottom;
   position: absolute;
-  bottom: 50%;
-  left: 50%;
   background-image: url("assets/web_hi_res_512.png");
-  margin-bottom: -96px;
-  margin-left: -96px;
   width: 512px;
   height: 512px;
 }
