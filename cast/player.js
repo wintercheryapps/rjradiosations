@@ -1197,8 +1197,10 @@ sampleplayer.CastPlayer.prototype.setType_ = function(type, isLiveStream) {
     // if we are in 'audio' mode float metadata around the screen to
     // prevent screen burn
     this.burnInPreventionIntervalId_ = setInterval(function() {
-      overlay.style.marginBottom =1 + 'px';
-      overlay.style.marginLeft = 1+ 'px';
+      var currentBottom=overlay.style.marginBottom;
+      var currentLeft=overlay.style.marginLeft;
+      overlay.style.marginBottom =(currentBottom+1) + 'px';
+       overlay.style.marginLeft= (currentLeft+1)+ 'px';
     }, sampleplayer.BURN_IN_TIMEOUT);
   }
 };

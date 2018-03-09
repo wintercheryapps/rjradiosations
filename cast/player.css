@@ -160,6 +160,10 @@ body {
 
 .player .overlay {
   position: absolute;
+  left: 64px;
+  bottom: 64px;
+  right: 64px;
+  top: 64px;
   display: none;
   top: auto;
   background-position: center;
