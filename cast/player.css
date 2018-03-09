@@ -165,6 +165,7 @@ body {
   right: 64px;
   display: none;
   top: auto;
+  background-position: center;
 }
 
 .player .watermark {
