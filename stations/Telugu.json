@@ -1,1 +1,111 @@
-[]
+[{
+	"fav_added": false,
+	"station_id": "1021000",
+	"language_id": "102",
+	"station_color": "#f27325",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/club_fm.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/club_fm_square.png",
+	"station_name": "Club FM",
+	"station_stream_url": "http://19373.live.streamtheworld.com/CLUBFMUAEAAC.aac",
+	"station_tags": "Music|News|UAE|"
+}, {
+	"fav_added": false,
+	"station_id": "1021001",
+	"language_id": "102",
+	"station_color": "#f3841d",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/radio_mango.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/radio_mango_square.png",
+	"station_name": "Radio Mango",
+	"station_stream_url": "http://iveradiomangoae-lh.akamaihd.net/i/RadioMango_1@25090/index_256_a-p.m3u8?sd\u003d10\u0026rebase\u003don",
+	"station_tags": "Music|News|UAE|"
+}, {
+	"fav_added": false,
+	"station_id": "1021002",
+	"language_id": "102",
+	"station_color": "#f29521",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/flowers_fm.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/flowers_fm_square.png",
+	"station_name": "Flowers FM",
+	"station_stream_url": "http://50.7.99.163:16098/stream?type\u003dhttp\u0026nocache\u003d2",
+	"station_tags": "Music|News|UAE|"
+}, {
+	"fav_added": false,
+	"station_id": "1021003",
+	"language_id": "102",
+	"station_color": "#349ec1",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/mazhavil_fm.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/mazhavil_fm_square.png",
+	"station_name": "Mazhavil FM",
+	"station_stream_url": "http://mazhavilfm.out.airtime.pro:8000/mazhavilfm_a",
+	"station_tags": "Music|USA|"
+}, {
+	"fav_added": false,
+	"station_id": "1021004",
+	"language_id": "102",
+	"station_color": "#ce7fb1",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/asianet_fm.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/asianet_fm_square.png",
+	"station_name": "Asianet FM",
+	"station_stream_url": "http://icast01.bluecast.in:8227/657am",
+	"station_tags": "Music|UAE|"
+}, {
+	"fav_added": false,
+	"station_id": "1021005",
+	"language_id": "102",
+	"station_color": "#2d8890",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/hello_fm.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/hello_fm_square.png",
+	"station_name": "Hello FM",
+	"station_stream_url": "http://132.148.128.197:8000/helloradio.ogg",
+	"station_tags": "Music|India|"
+}, {
+	"fav_added": false,
+	"station_id": "1021006",
+	"language_id": "102",
+	"station_color": "#ec0e90",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/malayalee_fm.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/malayalee_fm_square.png",
+	"station_name": "Malayalee FM",
+	"station_stream_url": "https://streaming.radio.co/sd6cafcd5b/listen",
+	"station_tags": "Music|USA|"
+}, {
+	"fav_added": false,
+	"station_id": "1021007",
+	"language_id": "102",
+	"station_color": "#b5c34c",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/radio_usa.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/radio_usa_square.png",
+	"station_name": "Radio Malayalam USA",
+	"station_stream_url": "http://167.114.131.90:5412/stream3",
+	"station_tags": "Music|USA|"
+}, {
+	"fav_added": false,
+	"station_id": "1021008",
+	"language_id": "102",
+	"station_color": "#0a09eb",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/air_manjari_fm.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/air_manjari_fm_square.png",
+	"station_name": "Air Manjari FM",
+	"station_stream_url": "https://streaming.shoutcast.com/SouthAsiaRadio2",
+	"station_tags": "News|India|"
+}, {
+	"fav_added": false,
+	"station_id": "1021009",
+	"language_id": "102",
+	"station_color": "#0e72b8",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/radio_city_fm.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/radio_city_fm_square.png",
+	"station_name": "Radio City FM",
+	"station_stream_url": "http://prclive1.listenon.in:9908/",
+	"station_tags": "News|India|"
+}, {
+	"fav_added": false,
+	"station_id": "1021010",
+	"language_id": "102",
+	"station_color": "#e12c36",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/radio_asia_fm.png",
+	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/radio_asia_fm_square.png",
+	"station_name": "Radio Asia FM",
+	"station_stream_url": "http://50.7.71.27:9699/;stream.mp3",
+	"station_tags": "Music|"
+}]
