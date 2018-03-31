@@ -13,7 +13,7 @@
 	"station_id": "1001001",
 	"language_id": "100",
 	"station_color": "#f3841d",
-	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/radio_mango.png",
+	"station_img_url": "https://wintercheryapps.github.io/rjradiosations/images/stations/radio_mango.png",
 	"station_img_url_square": "https://wintercheryapps.github.io/rjradiosations/radio_mango_square.png",
 	"station_name": "Radio Mango",
 	"station_stream_url": "http://iveradiomangoae-lh.akamaihd.net/i/RadioMango_1@25090/index_256_a-p.m3u8?sd\u003d10\u0026rebase\u003don",
