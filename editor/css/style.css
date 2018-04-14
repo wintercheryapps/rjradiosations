@@ -316,3 +316,17 @@ html {
 .btn.red:hover, .btn.red:focus {
   background-color: #c0392b;
 }
+
+.station_edit_container {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  background-color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+  width: auto;
+  margin: 30px auto 0;
+  display: block;
+  background: white;
+  padding: 10px 50px 50px;
+  align-items: center;
+  text-align: center;
+}
