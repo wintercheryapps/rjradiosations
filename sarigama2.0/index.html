@@ -5,6 +5,7 @@
     <link rel="icon" type="image/png" href="https://itsvssudheesh.github.io/androidlipstick/res/img/lip_stick.png">
     <link rel="stylesheet" href="themes/androidlipstick.min.css" />
     <link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+    <link rel="stylesheet" href="css/lipstick.css">
     <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
     <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
     <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
@@ -13,14 +14,17 @@
     <script type="text/javascript" src="js/shim.min.js"></script>
     <script type="text/javascript" src="js/gibberish-aes-1.0.0.min.js"></script>
     <script type="text/javascript" src="js/lipstic.js"></script>
+
   </head>
 
   <body>
-    <form id="file_submit" method="post" action="#">
-      <input type="file" id="file_input">
-      <input type="text" id="parse_phrase" placeholder="Parse Phrase">
-      <input type="button" id="button" value="Submit">
-    </form>
+    <div id="form-wrapper">
+      <form id="file_submit" method="post" action="#">
+        <input type="file" id="file_input">
+        <input type="text" id="parse_phrase" placeholder="Parse Phrase">
+        <input type="button" id="button" value="Submit">
+      </form>
+    </div>
   </body>
 
 </html>
