@@ -1,33 +1,12 @@
-
-
-function validate_and_generate() {
-  passphrase=document.getElementsByName("passphrase")[0].value;
-   file = document.querySelector('[type=file]').files[0];
-  Papa.parse(file,{
-  			header: true, complete: function(results)
-      			{
-          encryptedText=encrypt(JSON.stringify(results.data),passphrase);
-          var myObject = new Object();
-          myObject.data = encryptedText;
-  				var blob = new Blob([JSON.stringify(myObject)],{type: "application/json"});
-          testnam=file.name.split('.')
-  				saveAs(blob,testnam[0]+".json");
-  			}
-  		});
-
-}
-
-
-function encrypt(message, key){
-    var message = CryptoJS.AES.encrypt(message, key);
-    return message.toString();
-}
-function decrypt(message = '', key = ''){
-    var code = CryptoJS.AES.decrypt(message, key);
-    var decryptedMessage = code.toString(CryptoJS.enc.Utf8);
-
-    return decryptedMessage;
-}
+/*
+* FileSaver.js
+* A saveAs() FileSaver implementation.
+*
+* By Eli Grey, http://eligrey.com
+*
+* License : https://github.com/eligrey/FileSaver.js/blob/master/LICENSE.md (MIT)
+* source  : http://purl.eligrey.com/github/FileSaver.js
+*/
 
 
 // The one and only way of getting global scope in all environments
