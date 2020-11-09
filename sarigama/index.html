@@ -1,3 +1,28 @@
 <html>
-<p>Hello world..</p>
+<head>
+<link rel="icon" type="image/png" href="res/img/favicon.ico"/>
+</head>
+<title>SaRiGaMa Station Master</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue-grey.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="./res/js/sarigma_station_master.js"></script>
+    <script type="text/javascript" src="./res/js/papaparse.min.js"></script>
+<body class="w3-theme-l4">
+  <div style="min-width:400px">
+
+  <div class="w3-bar w3-large w3-theme-d4">
+    <span class="w3-bar-item">Station Master</span>
+  </div>
+  <div class="w3-container w3-content">
+  <div class="w3-panel w3-white w3-card w3-display-container">
+
+  <p class="w3-text-blue">Passphrase</p> <input name="passphrase"/>
+  <p class="w3-text-blue">Select CSV File</p><input id="csv-file" type="file" accept=".csv" required/>
+<p class="w3-text-blue"> </p> <button onclick="validate_and_generate()">Generate JSON</button>
+  <p class="w3-text-blue"> </p>
+</div>
+</div>
+</body>
 </html>
