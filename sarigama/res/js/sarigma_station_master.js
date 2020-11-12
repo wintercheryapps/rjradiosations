@@ -6,8 +6,7 @@ function validate_and_generate() {
   Papa.parse(file,{
   			header: true, complete: function(results)
       			{
-          // encryptedText=encrypt(JSON.stringify(results.data),passphrase);
-          encryptedText=GibberishAES.enc(JSON.stringify(results.data),passphrase);
+          encryptedText=encrypt(JSON.stringify(results.data),passphrase);
           var myObject = new Object();
           myObject.data = encryptedText;
   				var blob = new Blob([JSON.stringify(myObject)],{type: "application/json"});
@@ -20,17 +19,19 @@ function validate_and_generate() {
 
 
 function encrypt(message, key){
-
-  var keyUtf8 = CryptoJS.enc.Utf8.parse(key);
-  alert(keyUtf8)
-    var message = CryptoJS.AES.encrypt(message, keyUtf8);
-    return message.toString();
+var encryptedBase64Key = 'bXVzdGJlMTZieXRlc2tleQ==';
+var parsedBase64Key = CryptoJS.enc.Base64.parse(encryptedBase64Key);
+var encryptedData = CryptoJS.AES.encrypt(message, parsedBase64Key, {
+mode: CryptoJS.mode.ECB,
+padding: CryptoJS.pad.Pkcs7
+});
+  return encryptedData.toString();
 }
 function decrypt(message = '', key = ''){
     var code = CryptoJS.AES.decrypt(message, key);
     var decryptedMessage = code.toString(CryptoJS.enc.Utf8);
 
-    return decryptedMessage;
+    return decryptedMessage.toString();
 }
 
 
