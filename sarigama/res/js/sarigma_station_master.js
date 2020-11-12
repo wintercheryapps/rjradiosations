@@ -19,7 +19,7 @@ function validate_and_generate() {
 
 
 function encrypt(message, key){
-var encryptedBase64Key = 'bXVzdGJlMTZieXRlc2tleQ==';
+var encryptedBase64Key = '&E)H@McQfTjWnZr4u7x!z%C*F-JaNdRg';
 var parsedBase64Key = CryptoJS.enc.Base64.parse(encryptedBase64Key);
 var encryptedData = CryptoJS.AES.encrypt(message, parsedBase64Key, {
 mode: CryptoJS.mode.ECB,
